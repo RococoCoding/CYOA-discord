@@ -1,0 +1,197 @@
+{
+  "title": "Bear Lady Kayak",
+  "prompts": [
+    {
+      "gameIndex": 0,
+      "command": "start",
+      "narrative": "You are lady living in Alaska. You are at home preparing dinner when you look out the window and spot a bear approaching.",
+      "choices": [1, 2]
+    },
+    {
+      "gameIndex": 1,
+      "command": "Stay inside",
+      "narrative": "You decide it's better to stay inside.\nYou watch from the window as the bear sniffs at your kayak that's stored out in the yard. You just bought it a few weeks ago. You love it.\n'Please don't eat my kayak,' you beg the bear.\nIt looks up and starts ambling towards you.",
+      "choices": [2, 3]
+    },
+    {
+      "gameIndex": 2,
+      "command": "Chase the bear",
+      "narrative": "You run up to the bear with your arms out, screaming. 'GO AWAY, BEAR!!! SHOO!!'\nThe bear stands up tall and roars at you.",
+      "choices": [4, 3, 5]
+    },
+    {
+      "gameIndex": 3,
+      "command": "Get the bear spray",
+      "narrative": "You grab a canister of bear-strength pepper spray from your porch, which is definitely a thing you have because despite living in Alaska you are a sensible person.\n'Thank you for leaving my kayak alone,' you say to the bear. 'I'm going to pepper spray you in the face. That's what I'm going to do to you.'\nSeems kinda mean, but you don't want the bear to get close enough to smell that pot roast you got going on in the oven.",
+      "choices": [6]
+    },
+    {
+      "gameIndex": 4,
+      "command": "Fight!!",
+      "narrative": "You are mauled by a bear. Your adventure ends here.",
+      "choices": []
+    },
+    {
+      "gameIndex": 5,
+      "command": "Run back inside",
+      "narrative": "You run back inside the house. The bear follows you. It starts attacking the door, beating up against the window with its giant paws.",
+      "choices": [7, 21, 27]
+    },
+    {
+      "gameIndex": 6,
+      "command": "Pepper spray the bear",
+      "narrative": "You pepper spray the bear. It's startled and backs off. But then it turns around and heads straight for your beloved kayak.",
+      "choices": [5, 8]
+    },
+    {
+      "gameIndex": 7,
+      "command": "Get the bear spray",
+      "narrative": "Oh gosh darnit!! The bear spray is out on the porch with the bear, you belatedly realize.\n'Go away, bear!! Shoo!! Why are you here?!' you yell in expasperation.\nThe bear is undeterred and beats at the door some more.",
+      "choices": [4, 9, 8, 10]
+    },
+    {
+      "gameIndex": 8,
+      "command": "Command the bear",
+      "narrative": "'Stay away from the kayak! Stay away from that kayak!' you yell as sternly as you can to the bear. It's pawing at your kayak now.\n'Bear'\n'Bear'\n'You're breaking my kayak' you narrate. 'Why are you doing that?'\nThe bear does not respond because it is a bear. It does, however, start gnawing at your kayak with its sharp bear teeth.\n'WHAT AM I GONNA DO??' you scream.",
+      "choices": [11, 12]
+    },
+    {
+      "gameIndex": 9,
+      "command": "Feed the bear",
+      "narrative": "You realize the bear probably wants that pot roast you were making for dinner. Maybe it'll go away if you feed it?\n'Okay, you know what I'm gonna do? I'm gonna get this pot roast out of the oven for you. It's only half cooked, but you're a bear, you probably don't even care. I hope you like it. IT WAS SUPPOSED TO BE MY DINNER!!' you yell at it passive-aggressively.",
+      "choices": [13, 14]
+    },
+    {
+      "gameIndex": 10,
+      "command": "Pray",
+      "narrative": "Thoughts and prayers don't help school shootings and they won't help with aggressive bears.",
+      "choices": [4, 15, 16]
+    },
+    {
+      "gameIndex": 11,
+      "command": "Yell at the bear some more",
+      "narrative": "You yell at the bear some more. 'Stop it. Stop breaking my kayak! Pleeeaasseee. Gosh darnit. Ohhhh!! Why are you doing that?! Bear, please stop!' It continues, unbothered by your histrionics.",
+      "choices": [5, 12, 17]
+    },
+    {
+      "gameIndex": 12,
+      "command": "Pepper spray the bear some more",
+      "narrative": "You pepper spray the bear again. Again, it gets startled and backs off a bit, but it lingers nearby, looking for a way around you.",
+      "choices": [4, 18]
+    },
+    {
+      "gameIndex": 13,
+      "command": "Throw the pot roast",
+      "narrative": "You open a window and throw the pot roast outside, onto the porch. The bear retreats from the door and heads for the pot roast.",
+      "choices": [19, 20]
+    },
+    {
+      "gameIndex": 14,
+      "command": "Place the pot roast by the door",
+      "narrative": "You place the pot roast in front of the door. Unfortunately, as the bear beats the door down, it lands on top of the pot roast. Now it just smells pot roast and sees you.",
+      "choices": [21, 4]
+    },
+    {
+      "gameIndex": 15,
+      "command": "Beg",
+      "narrative": "You beg the bear not to kill you. 'PLEASSEEEE!! PLEAASEEE bear, just leave me alone!! You can have the kayak! I'm sorry!!' Unfortunately, the bear does not understand human speech. You are mauled by a bear. Your adventure ends here.",
+      "choices": []
+    },
+    {
+      "gameIndex": 16,
+      "command": "Boop",
+      "narrative": "'BOOP!!' you say as you boop the bear on the nose. It blinks in confusion and then retreats.",
+      "choices": [22, 23]
+    },
+    {
+      "gameIndex": 17,
+      "command": "Talk logic",
+      "narrative": "You decide to try logic with the bear. 'It's the end of September. Why are you here? You're supposed to be asleep! Why are you here? OHHHHH!'\n'Bear!'\n'Bear!'\n'Stop that!'",
+      "choices": [24]
+    },
+    {
+      "gameIndex": 18,
+      "command": "Spray more",
+      "narrative": "You spray at the bear again, but it's wary now and keeping its distance. Your can is starting to feel pretty light.",
+      "choices": [4, 25]
+    },
+    {
+      "gameIndex": 19,
+      "command": "Wait",
+      "narrative": "You decide to wait and see if the bear will go away after eating your pot roast. It does.\nThe next day, however, the bear is back.",
+      "choices": [1, 2]
+    },
+    {
+      "gameIndex": 20,
+      "command": "Get the bear spray",
+      "narrative": "You slowly open the door and tiptoe onto the porch while the bear is eating your dinner and grab the canister of bear spray. It looks up at you, licking its mouth.",
+      "choices": [26, 19, 25]
+    },
+    {
+      "gameIndex": 21,
+      "command": "Jump out the window",
+      "narrative": "You jump out a window before the bear can attack you, but now it's rummaging around inside your house destroying everything.",
+      "choices": [4, 27, 25]
+    },
+    {
+      "gameIndex": 22,
+      "command": "Leave the bear alone",
+      "narrative": "You wait and see what the bear does next. It wanders off towards your kayak.",
+      "choices": [28, 29]
+    },
+    {
+      "gameIndex": 23,
+      "command": "Feed the bear",
+      "narrative": "You go inside and find some moose jerky left over from last season and offer it to the bear. It sniffs the jerky and takes it from your hand.",
+      "choices": [31, 25, 27]
+    },
+    {
+      "gameIndex": 24,
+      "command": "BEARRRR",
+      "narrative": "'BEAARRRR!!' you scream at it. 'Please stop breaking my things!' It flips the kayak over.\n'Please stop breaking my things!!'",
+      "choices": [30]
+    },
+    {
+      "gameIndex": 25,
+      "command": "Retreat",
+      "narrative": "You decide to get in your truck and get backup. After some time you're able to return with a neighbor and his hunting rifle, but the bear is gone. It did its damage and left a large bear poop on the remains of your poor kayak. Your neighbor invites you over for dinner since the bear ate yours, and you get to talking about bear traps and the next thing you know, the two of you are married and you find youself wondering on occasion if you should thank the bear. You still check the traps every few weeks to make sure they're in good condition. Your adventure ends here.",
+      "choices": []
+    },
+    {
+      "gameIndex": 26,
+      "command": "Pepper spray the bear",
+      "narrative": "You pepper spray the bear, and it runs off toward your kayak.",
+      "choices": [28, 29]
+    },
+    {
+      "gameIndex": 27,
+      "command": "BEARRRR",
+      "narrative": "'BEAARRRR!!' you scream at it uselessly.",
+      "choices": [4, 25, 26]
+    },
+    {
+      "gameIndex": 28,
+      "command": "NOOO NOT MY KAYAK!!",
+      "narrative": "'NOOO NOT MY KAYAK!!' you scream at the bear.",
+      "choices": [4, 17, 29]
+    },
+    {
+      "gameIndex": 29,
+      "command": "Let the kayak go",
+      "narrative": "You make peace with the loss of your kayak and say a lovely little prayer for it before digging up your homeowners insurance policy to see if they cover property damage from bears. Your adventure ends here.",
+      "choices": []
+    },
+    {
+      "gameIndex": 30,
+      "command": "Try more logic",
+      "narrative": "'It's not even food! It doesn't even taste good! It's just plastic!!!' you yell at it. The bear continues its assault on your kayak. 'Please stop! Bear, please stop!' you beg it. It does not stop.",
+      "choices": [12, 29]
+    },
+    {
+      "gameIndex": 31,
+      "command": "Feed it some more",
+      "narrative": "You grab that giant tub of cheese puffs from the pantry and start throwing them at the bear. Mostly they just hit the bear and fall off and it eats them from the ground, but occasionally it catches one mid air. 'Oh, you're just like a very, very big dog, aren't you, sweety?' you say to the bear. All your acquaintances tell you about how Grizzly Man met a grisly end, but to no avail. You now hae a pet bear./nYears later, you are mauled by a bear. Your adventure ends there.",
+      "choices": []
+    }
+  ]
+}
