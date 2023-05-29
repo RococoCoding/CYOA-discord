@@ -13,7 +13,6 @@ const router = Router();
 router.post('/interactions', async function (req, res) {
   // Interaction type and data
   const { type, id, data, member } = req.body;
-  console.log(req.body)
 
   /**
    * Handle verification requests

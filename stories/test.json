@@ -4,7 +4,7 @@
     {
       "gameIndex": 0,
       "command": "start",
-      "narrative": "You are lady living in Alaska. You are at home preparing dinner when you look out the window and spot a bear approaching.",
+      "narrative": "You are a lady living in Alaska. You are at home preparing dinner when you look out the window and spot a bear approaching.",
       "choices": [1, 2]
     },
     {
@@ -64,7 +64,7 @@
     {
       "gameIndex": 10,
       "command": "Pray",
-      "narrative": "Thoughts and prayers don't help school shootings and they won't help with aggressive bears.",
+      "narrative": "Thoughts and prayers don't help school shootings and they certainly won't help with aggressive bears.",
       "choices": [4, 15, 16]
     },
     {
@@ -190,7 +190,7 @@
     {
       "gameIndex": 31,
       "command": "Feed it some more",
-      "narrative": "You grab that giant tub of cheese puffs from the pantry and start throwing them at the bear. Mostly they just hit the bear and fall off and it eats them from the ground, but occasionally it catches one mid air. 'Oh, you're just like a very, very big dog, aren't you, sweety?' you say to the bear. All your acquaintances tell you about how Grizzly Man met a grisly end, but to no avail. You now hae a pet bear./nYears later, you are mauled by a bear. Your adventure ends there.",
+      "narrative": "You grab that giant tub of cheese puffs from the pantry and start throwing them at the bear. Mostly they just hit the bear and fall off and it eats them from the ground, but occasionally it catches one mid air. 'Oh, you're just like a very, very big dog, aren't you, sweety?' you say to the bear. All your acquaintances tell you about how Grizzly Man met a grisly end, but to no avail. You now hae a pet bear.\nYears later, you are mauled by a bear. Your adventure ends there.",
       "choices": []
     }
   ]
